@@ -1,0 +1,2 @@
+imiona = ['Jan','Jasiek','Janko','Janeczek','Jano']
+print(imiona)
